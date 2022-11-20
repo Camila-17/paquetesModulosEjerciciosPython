@@ -1,0 +1,5 @@
+numeros = [1,2,3,4,5]
+nombre = ['Camila', 'Alex', 'Hervis', 'Carlos', 'Estefa']
+alimentos = ['arroz', 'huevos', 'leche']
+paises = ['Colombia', 'Alemania', 'Brasil']
+libros = ['Mi viaje sin ti', 'Si, si es contigo', 'Cien años de soledad']
